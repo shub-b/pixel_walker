@@ -3,8 +3,11 @@
 [Authors](#authors):
 
 Shubhajeet Baral
+
 Greg Maynard
+
 Khuong Do
+
 Thuong Nyugen
 
 
