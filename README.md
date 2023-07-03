@@ -1,6 +1,6 @@
 # Pixel_Walker
 
-[Authors]
+Authors
 
 Shubhajeet Baral
 
