@@ -1,4 +1,13 @@
-# pixel_walker
+# Pixel_Walker
+
+[Authors](#authors):
+
+Shubhajeet Baral
+Greg Maynard
+Khuong Do
+Thuong Nyugen
+
+
 ### Table Of Content
 [About](#description)  
 
